@@ -1,7 +1,7 @@
 # Codecademy Machine Learning Gradient Descent lesson
 # completed 4/4/2019
 
-import codecademylib3_seaborn
+#import codecademylib3_seaborn
 import matplotlib.pyplot as plt
 
 def get_gradient_at_b(x, y, b, m):

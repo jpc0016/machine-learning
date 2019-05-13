@@ -1,7 +1,7 @@
 # Codecademy multiple regressions
 # Attempted 4/4/2019
 
-import codecademylib3_seaborn
+#import codecademylib3_seaborn
 
 import matplotlib.pyplot as plt
 import numpy as np
